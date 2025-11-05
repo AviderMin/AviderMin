@@ -55,3 +55,8 @@
 <picture><img height="26" src="https://img.shields.io/badge/REDMI%20K40S-red?style=flat-square&logo=xiaomi&logoColor=ffffff" alt="REDMI K40S"/></picture>
 <picture><img height="26" src="https://img.shields.io/badge/Xiaomi%20Pad%205-red?style=flat-square&logo=xiaomi&logoColor=ffffff" alt="Xiaomi Pad 5"/></picture>
 
+## Development Environment
+
+<picture><img height="26" src="https://img.shields.io/badge/Windows%2011%2025H2-00adef?style=flat-square&logo=windows&logoColor=ffffff" alt="Windows11 25H2"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/Android%2015-3ddc84?style=flat-square&logo=android&logoColor=ffffff" alt="Android 15"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/WSL%20Ubuntu-orange?style=flat-square&logo=ubuntu&logoColor=white" alt="WSL Ubuntu"/></picture>
