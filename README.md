@@ -8,6 +8,9 @@
 [7] https://count.getloli.com
 --> 
 
+- 👋 Hi, I’m @AviderMin
+- 😀 A college school student from China
+
 <div align="center">
   <table>
     <tr>
