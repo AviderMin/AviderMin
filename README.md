@@ -47,12 +47,11 @@
 <picture><img height="26" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python"/></picture>
 <picture><img height="26" src="https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/></picture>
 <picture><img height="26" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/></picture>
 <picture><img height="26" src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></picture>
 
 ## My Devices
 
-<picture><img height="26" src="https://img.shields.io/badge/REDMI%20K40S-red?style=flat-square&logo=xiaomi" alt="REDMI Note 12 Turbo"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/REDMI%20Note%2012%20Turbo-red?style=flat-square&logo=xiaomi" alt="REDMI Note 12 Turbo"/></picture>
 <picture><img height="26" src="https://img.shields.io/badge/REDMI%20K40S-red?style=flat-square&logo=xiaomi" alt="REDMI K40S"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/REDMI%20K40S-red?style=flat-square&logo=xiaomi" alt="Xiaomi Pad 5"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/Xiaomi%20Pad%205-red?style=flat-square&logo=xiaomi" alt="Xiaomi Pad 5"/></picture>
 
