@@ -51,7 +51,7 @@
 
 ## My Devices
 
-<picture><img height="26" src="https://img.shields.io/badge/REDMI%20Note%2012%20Turbo-red?style=flat-square&logo=xiaomi" alt="REDMI Note 12 Turbo"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/REDMI%20K40S-red?style=flat-square&logo=xiaomi" alt="REDMI K40S"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/Xiaomi%20Pad%205-red?style=flat-square&logo=xiaomi" alt="Xiaomi Pad 5"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/REDMI%20Note%2012%20Turbo-red?style=flat-square&logo=xiaomi&logoColor=ffffff" alt="REDMI Note 12 Turbo"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/REDMI%20K40S-red?style=flat-square&logo=xiaomi&logoColor=ffffff" alt="REDMI K40S"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/Xiaomi%20Pad%205-red?style=flat-square&logo=xiaomi&logoColor=ffffff" alt="Xiaomi Pad 5"/></picture>
 
