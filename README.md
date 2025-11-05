@@ -36,15 +36,15 @@
 
 ## Using language
 
-<picture><img height="26" src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white" alt="C"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/></picture>
 <picture><img height="26" src="https://img.shields.io/badge/Shell-black?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></picture>
 <picture><img height="26" src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML"/></picture>
 <picture><img height="26" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css&logoColor=white" alt="CSS"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></picture>
 
 ## Learning Now
 
+<picture><img height="26" src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white" alt="C"/></picture>
 <picture><img height="26" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python"/></picture>
 <picture><img height="26" src="https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/></picture>
 <picture><img height="26" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/></picture>
