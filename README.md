@@ -34,7 +34,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=avidermin&theme=github-compact&hide_border=true&bg_color=transparent" alt="Activity Graph">
 </picture>
 
-## Using language
+## Using Now
 
 <picture><img height="26" src="https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/></picture>
 <picture><img height="26" src="https://img.shields.io/badge/Shell-black?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell"/></picture>
